@@ -1,0 +1,11 @@
+body {
+  background-image: url('https://img.freepik.com/free-photo/medical-wide-banner-with-copyspace-text-cropped-caucasian-woman-doctor-white-uniform-blurred-clinic-background-healthcare-pharmacology-concept_72474-489.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+div {
+  background-color: rgba(255, 255, 255, 0.7);
+  opacity: 1;
+  padding: 0.25em;
+}

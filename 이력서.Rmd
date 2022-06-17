@@ -1,0 +1,41 @@
+---
+output:
+  html_document:
+    css: "cssbg.css"
+---
+<br>
+
+# **홍서영**<br>
+### 예비의사<br>
+*`r format(Sys.Date())`*<br>
+
+<div style = "float:right;">
+```{r echo=FALSE, error=FALSE, results='hide', warning=FALSE}
+library(fontawesome)
+```
+
+`r fa("envelope")`Email:
+[seoyeong31@hanyang.ac.kr](mailto:seoyeong31@hanyang.ac.kr)
+</div><br>
+<hr>
+## About Me <br>
+한양대학교 의과대학 의예과 1학년 재학중이며
+의사과학자로 연구를 진행하는 일에 관심이 많습니다.
+임상의사로서는 아무리 열심히 환자를 치료해도 수백만
+명을 살릴 수는 없기에 연구를 통한 신약개발, 예방 등을 희망합니다.
+현재는 한양의과학자 양성프로그램에 참여할 준비를 하고 있습니다.<br>
+
+-----
+
+## Strengths<br>
+* 학문에 대해 지속적으로 탐구하는 과정을 즐깁니다.<br>
+* 의사과학자로서 이루고자 하는 목표가 분명하고, 이를 위해 노력합니다.<br>
+* 창의적인 생각을 자주 해냅니다.<br>
+* 연구자 간 커뮤니케이션을 좋아합니다.<br>
+
+-----
+
+## Education<br>
+2022.03 ~ 현재    한양대학교 의예과 재학
+
+
